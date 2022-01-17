@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BaroqueConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\ITEM.MSB"
+    }
+  }
+}
