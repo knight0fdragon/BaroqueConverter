@@ -34,7 +34,7 @@ namespace BaroqueConverter
                         pos++;
                         if (writeOffset)
                         {
-                            text += $"{pos:000000}\t";
+                            text += $"{pos:X4}\t";
                             writeOffset = false;
                         }
                         var value = (int)b;
